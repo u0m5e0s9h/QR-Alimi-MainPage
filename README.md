@@ -45,4 +45,4 @@ This will start the Vite development server. Open your browser and navigate to t
 
 
 
-If you have any questions or issues running the project, please contact the project maintainer.
+If you have any questions or issues running the project, please contact me.
