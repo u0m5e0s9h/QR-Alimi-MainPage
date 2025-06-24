@@ -7,7 +7,7 @@ This project is built using Vite, React, and TypeScript.
 ### Prerequisites
 
 - Node.js (version 14 or higher recommended)
-- npm (comes with Node.js) or yarn
+- npm (comes with Node.js)
 
 ### Installation
 
