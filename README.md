@@ -33,13 +33,7 @@ npm run dev
 
 This will start the Vite development server. Open your browser and navigate to the URL shown in the terminal (usually `http://localhost:8080`).
 
-### Building for Production
 
-To build the project for production deployment, run:
-
-```bash
-npm run build
-```
 ### ScreenShots
 
 ![image](https://github.com/user-attachments/assets/0a3cd9ad-c2ed-47e7-abae-0b86e3acf2cd)
